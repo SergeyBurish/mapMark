@@ -1,6 +1,6 @@
 {
-  "short_name": "Map Demo",
-  "name": "Демо работы с картой",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
