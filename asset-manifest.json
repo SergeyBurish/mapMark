@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mapMark/static/css/main.9e505bb5.css",
+    "main.js": "/mapMark/static/js/main.6b873b0d.js",
+    "static/js/453.f86e96c8.chunk.js": "/mapMark/static/js/453.f86e96c8.chunk.js",
+    "index.html": "/mapMark/index.html",
+    "main.9e505bb5.css.map": "/mapMark/static/css/main.9e505bb5.css.map",
+    "main.6b873b0d.js.map": "/mapMark/static/js/main.6b873b0d.js.map",
+    "453.f86e96c8.chunk.js.map": "/mapMark/static/js/453.f86e96c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e505bb5.css",
+    "static/js/main.6b873b0d.js"
+  ]
+}
